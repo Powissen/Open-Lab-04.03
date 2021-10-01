@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Open_Lab_04._03
+namespace Open_Lab_04._03_2
 {
     public class StringTools
     {
